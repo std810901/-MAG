@@ -1,0 +1,15 @@
+#desc-img-text-9 .bg {
+    background-image: url('../images/item-grid-horizontal-3.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:0.15;
+}#desc-accordion .bg-wrap{
+	background-color: #f4f4f4;
+}#contact-text-form .bg {
+	background-image: url('../images/bg-3.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	opacity: 0.15;
+}
