@@ -8,7 +8,7 @@
 				<div class="row align-items-center">
 					<div class="col-auto mr-auto">
 						<a class="navbar-brand" href="#">
-							<img src="images/logo-2-light.png" height="30px" class="mw-100" alt="logo">
+							<img src="/images/logo-2-light.png" height="30px" class="mw-100" alt="logo">
 						</a>
 					</div>
 					<div class="col-auto hidden-lg">
@@ -48,34 +48,34 @@
 					<div class="col-md-6 col-lg-5 order-md-2">
 						<h3 class=""><strong>会社情報</strong></h3>
 						<svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 0 100 20" width="100"
-							class="mb-30 svg-secondary" src="images/gallery/decor/line-h-2.svg" alt="sep">
+							class="mb-30 svg-secondary" src="/images/gallery/decor/line-h-2.svg" alt="sep">
 							<path d="m0 9h100v2h-100z" fill-rule="evenodd"></path>
 						</svg>
 						<p class="mb-30">ABOUT</p>
 						<ul class="list-unstyled padding-x2-list separate-list mb-50">
 							<li class=""><svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16"
-									class="icon svg-default icon-pos-left" src="images/gallery/icons/info-circle.svg"
+									class="icon svg-default icon-pos-left" src="/images/gallery/icons/info-circle.svg"
 									alt="">
 									<path
 										d="m8 16c-4.418278 0-8-3.581722-8-8s3.581722-8 8-8 8 3.581722 8 8-3.581722 8-8 8zm-1-9v6h2v-6zm0-4v2h2v-2z">
 									</path>
 								</svg>株式会社 MAG</li>
 							<li class=""><svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16"
-									class="icon svg-default icon-pos-left" src="images/gallery/icons/info-circle.svg"
+									class="icon svg-default icon-pos-left" src="/images/gallery/icons/info-circle.svg"
 									alt="">
 									<path
 										d="m8 16c-4.418278 0-8-3.581722-8-8s3.581722-8 8-8 8 3.581722 8 8-3.581722 8-8 8zm-1-9v6h2v-6zm0-4v2h2v-2z">
 									</path>
 								</svg>東京都千代田区神田練塀町300番 住友不動産秋葉原駅前ビル11階</li>
 							<li class=""><svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16"
-									class="icon svg-default icon-pos-left" src="images/gallery/icons/info-circle.svg"
+									class="icon svg-default icon-pos-left" src="/images/gallery/icons/info-circle.svg"
 									alt="">
 									<path
 										d="m8 16c-4.418278 0-8-3.581722-8-8s3.581722-8 8-8 8 3.581722 8 8-3.581722 8-8 8zm-1-9v6h2v-6zm0-4v2h2v-2z">
 									</path>
 								</svg>ゲームの運営・開発、アニメーション製作、投資支援</li>
 							<li class=""><svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16"
-									class="icon svg-default icon-pos-left" src="images/gallery/icons/info-circle.svg"
+									class="icon svg-default icon-pos-left" src="/images/gallery/icons/info-circle.svg"
 									alt="">
 									<path
 										d="m8 16c-4.418278 0-8-3.581722-8-8s3.581722-8 8-8 8 3.581722 8 8-3.581722 8-8 8zm-1-9v6h2v-6zm0-4v2h2v-2z">
@@ -85,7 +85,7 @@
 					</div>
 					<div class="col-md-6 mr-auto order-md-1 text-center">
 						<div class="content-box d-inline-block">
-							<img class="mw-100 shadow mt-50 mt-lg-0" src="images/item-arch-1.jpg" alt="image">
+							<img class="mw-100 shadow mt-50 mt-lg-0" src="/images/item-arch-1.jpg" alt="image">
 						</div>
 					</div>
 				</div>
@@ -105,7 +105,7 @@
 									href="#desc_accordion_0--0" data-parent="#desc_accordion_0-accordion"
 									aria-expanded="true" aria-controls="desc_accordion_0--0"><svg
 										xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16"
-										class="icon svg-secondary icon-pos-left" src="images/gallery/icons/info-circle.svg"
+										class="icon svg-secondary icon-pos-left" src="/images/gallery/icons/info-circle.svg"
 										alt="icon">
 										<path
 											d="m8 16c-4.418278 0-8-3.581722-8-8s3.581722-8 8-8 8 3.581722 8 8-3.581722 8-8 8zm-1-9v6h2v-6zm0-4v2h2v-2z">
@@ -135,7 +135,7 @@
 									href="#desc_accordion_0--1" data-parent="#desc_accordion_0-accordion"
 									aria-expanded="false" aria-controls="desc_accordion_0--1"><svg
 										xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16"
-										class="icon svg-secondary icon-pos-left" src="images/gallery/icons/info-circle.svg"
+										class="icon svg-secondary icon-pos-left" src="/images/gallery/icons/info-circle.svg"
 										alt="icon">
 										<path
 											d="m8 16c-4.418278 0-8-3.581722-8-8s3.581722-8 8-8 8 3.581722 8 8-3.581722 8-8 8zm-1-9v6h2v-6zm0-4v2h2v-2z">
@@ -147,7 +147,7 @@
 										<div class="row">
 											<div class="col-md-6">
 												<img alt="image" class="mw-100 mb-30 mb-md-0"
-													src="images/item-blog-3.jpg">
+													src="/images/item-blog-3.jpg">
 											</div>
 											<div class="col-md-6">
 												<p class="mb-30">株式会社Yostarは、2023年8月12日(土)より開催される「コミックマーケット
@@ -163,7 +163,7 @@
 									href="#desc_accordion_0--2" data-parent="#desc_accordion_0-accordion"
 									aria-expanded="false" aria-controls="desc_accordion_0--2"><svg
 										xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16"
-										class="icon svg-secondary icon-pos-left" src="images/gallery/icons/info-circle.svg"
+										class="icon svg-secondary icon-pos-left" src="/images/gallery/icons/info-circle.svg"
 										alt="icon">
 										<path
 											d="m8 16c-4.418278 0-8-3.581722-8-8s3.581722-8 8-8 8 3.581722 8 8-3.581722 8-8 8zm-1-9v6h2v-6zm0-4v2h2v-2z">
@@ -175,7 +175,7 @@
 											<div class="col-md-6">
 												<div class="mw-100 mb-30 mb-md-0">
 													<img alt="image" class="mw-100 mb-30 mb-md-0"
-														src="images/item-blog-3.jpg">
+														src="/images/item-blog-3.jpg">
 												</div>
 											</div>
 											<div class="col-md-6">
@@ -193,6 +193,16 @@
 								</div>
 							</div>
 						</div>
+						<!-- 分頁按鈕 -->
+						<nav class="mt-50 text-center" aria-label="Page navigation example">
+							<ul class="pagination justify-content-center">
+								<li class="page-item disabled"><a class="page-link" href="#">Previous</a></li>
+								<li class="page-item active"><a class="page-link" href="#">1</a></li>
+								<li class="page-item disabled"><a class="page-link" href="#">2</a></li>
+								<li class="page-item disabled"><a class="page-link" href="#">3</a></li>
+								<li class="page-item disabled"><a class="page-link" href="#">Next</a></li>
+							</ul>
+						</nav>
 					</div>
 				</div>
 				<div class="bg-wrap">
@@ -203,6 +213,15 @@
 		<section id="media-iframe-3col" class="pt-50 pt-lg-150 pb-lg-100 dark spr-edit-el spr-oc-show spr-wout">
 			<div class="container">
 				<h3 class="mb-50"><strong>製品情報</strong></h3>
+				<!-- 頁籤tab -->
+				<ul class="nav nav-tabs mb-50" id="myTab" role="tablist">
+					<li class="nav-item"><a class="nav-link active" id="tab-1-tab" data-toggle="tab" href="#tab-1"
+							role="tab" aria-controls="tab-1" aria-selected="true">アズールレーン</a></li>
+					<li class="nav-item"><a class="nav-link" id="tab-2-tab" data-toggle="tab" href="#tab-2" role="tab"
+							aria-controls="tab-2" aria-selected="false">アークナイツ</a></li>
+					<li class="nav-item"><a class="nav-link" id="tab-3-tab" data-toggle="tab" href="#tab-3" role="tab"
+							aria-controls="tab-3" aria-selected="false">ブルーアーカイブ</a></li>
+				</ul>
 				<div class="row align-items-center">
 					<div class="col-md-4 mb-50">
 						<div class="video-iframe embed-responsive embed-responsive-4by3 mb-30">
@@ -241,6 +260,16 @@
 							さぁ！果てしない海を颯爽と駆け抜け、「海戦-ロマン-」の勝利を掴み取れ！</p>
 					</div>
 				</div>
+				<!-- 分頁按鈕 -->
+				<nav class="mt-50 text-center" aria-label="Page navigation example">
+					<ul class="pagination justify-content-center">
+						<li class="page-item disabled"><a class="page-link" href="#">Previous</a></li>
+						<li class="page-item active"><a class="page-link" href="#">1</a></li>
+						<li class="page-item disabled"><a class="page-link" href="#">2</a></li>
+						<li class="page-item disabled"><a class="page-link" href="#">3</a></li>
+						<li class="page-item disabled"><a class="page-link" href="#">Next</a></li>
+					</ul>
+				</nav>
 			</div>
 			<div class="bg-wrap">
 				<div class="bg"></div>
@@ -252,20 +281,20 @@
 					<div class="col-12 text-center">
 						<h3 class=""><strong>採用情報</strong></h3>
 						<svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 0 40 20" width="40"
-							class="mb-50 svg-secondary" src="images/gallery/decor/line-h-1.svg" alt="sep">
+							class="mb-50 svg-secondary" src="/images/gallery/decor/line-h-1.svg" alt="sep">
 							<path d="m0 8h40v4h-40z" fill-rule="evenodd"></path>
 						</svg>
 					</div>
 					<div class="col-lg">
 						<div class="gallery-item gallery-style-1 padding-x2 mb-50" style="background-color: #f4f5f6;">
-							<a href="#"><img class="item-img" src="images/item-blog-1.jpg" alt="image"></a>
+							<a href="#"><img class="item-img" src="/images/item-blog-1.jpg" alt="image"></a>
 							<div class="item-title">
 								<h4 class=""><strong>Yostarについて</strong></h4>
 								<p class="text-secondary mb-0 small"><a href="#">ABOUT</a></p>
 							</div>
 						</div>
 						<div class="gallery-item gallery-style-1 padding-x2 mb-50" style="background-color: #f4f5f6;">
-							<a href="#"><img class="item-img" src="images/item-blog-2.jpg" alt="image"></a>
+							<a href="#"><img class="item-img" src="/images/item-blog-2.jpg" alt="image"></a>
 							<div class="item-title">
 								<h4 class=""><strong>環境を知る</strong></h4>
 								<p class="text-secondary mb-0 small"><a href="#">CULTURE</a></p>
@@ -274,14 +303,14 @@
 					</div>
 					<div class="col-lg">
 						<div class="gallery-item gallery-style-1 padding-x2 mb-50" style="background-color: #f4f5f6;">
-							<a href="#"><img class="item-img" src="images/item-blog-4.jpg" alt="image"></a>
+							<a href="#"><img class="item-img" src="/images/item-blog-4.jpg" alt="image"></a>
 							<div class="item-title">
 								<h4 class=""><strong>人を知る</strong></h4>
 								<p class="text-secondary mb-0 small"><a href="#">PEOPLE</a></p>
 							</div>
 						</div>
 						<div class="gallery-item gallery-style-1 padding-x2 mb-50" style="background-color: #f4f5f6;">
-							<a href="#"><img class="item-img" src="images/item-blog-7.jpg" alt="image"></a>
+							<a href="#"><img class="item-img" src="/images/item-blog-7.jpg" alt="image"></a>
 							<div class="item-title">
 								<h4 class=""><strong>よくあるご質問</strong></h4>
 								<p class="text-secondary mb-0 small"><a href="#">FAQ</a></p>
@@ -302,30 +331,31 @@
 				<div class="row align-items-center">
 					<div class="col-lg-5 mr-auto">
 						<h3 class=""><strong>お問い合わせ</strong></h3>
-						<p class="mb-50 text-secondary">In our work we try to use only the most modern, convenient and
-							interesting solutions.</p>
+						<p class="mb-50 text-secondary">当フォームではご案件がある場合にのみ回答を行っており、
+						お問い合わせ内容によっては回答にお時間を頂戴する場合や、
+						回答いたしかねる場合がございますので、予めご了承ください。</p>
 						<ul class="list-unstyled padding-list lead">
 							<li class=""><svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16"
-									class="icon svg-default icon-pos-left" src="images/gallery/icons/map-marker.svg" alt="">
+									class="icon svg-default icon-pos-left" src="/images/gallery/icons/map-marker.svg" alt="">
 									<path
 										d="m8 16c-3.3137085 0-6-2.1894737-6-5.8947368 0-3.7052632 6-10.1052632 6-10.1052632s6 6.4 6 10.1052632c0 3.7052631-2.6862915 5.8947368-6 5.8947368zm0-4c1.1045695 0 2-.8954305 2-2s-.8954305-2-2-2-2 .8954305-2 2 .8954305 2 2 2z"
 										fill-rule="evenodd" transform="matrix(1 0 0 -1 0 16)"></path>
 								</svg>東京都千代田区神田練塀町300番</li>
 							<li class=""><svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16"
-									class="icon svg-default icon-pos-left" src="images/gallery/icons/envelope-fill.svg"
+									class="icon svg-default icon-pos-left" src="/images/gallery/icons/envelope-fill.svg"
 									alt="">
 									<path
 										d="m1.16613765 1h13.66772465l-6.8338623 6.77109639zm14.83386235 1.6087151v11.2246182c0 .6443322-.4477153 1.1666667-1 1.1666667h-14c-.55228475 0-1-.5223345-1-1.1666667v-11.2246182l8 7.6201885z">
 									</path>
 								</svg>Email address</li>
 							<li class=""><svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16"
-									class="icon svg-default icon-pos-left" src="images/gallery/icons/call.svg" alt="">
+									class="icon svg-default icon-pos-left" src="/images/gallery/icons/call.svg" alt="">
 									<path
 										d="m.99052845 1.73676599.56361347-.56361348 4.14772049 4.14772049c-.5530294.5530294 0 1.6590882 1.6590882 3.31817639 1.65908819 1.65908821 2.76514699 2.21211761 3.31817639 1.65908821l4.1477205 4.1477205-.5635607.5635607.0000123.0000123c-.1832569.1832569-.4220376.3006747-.6790607.3339206-2.6541817.3433184-5.55815505-1.061905-8.71192009-4.21567-3.15372572-3.15372574-4.55895333-6.05766601-4.21568285-8.71182085l-.00003523-.00000455c.03324308-.25703422.1506638-.4958259.33392822-.67909031zm.56361347-.56361348.8295441-.82954409c.45814456-.45814456 1.20094364-.45814456 1.6590882 0l2.48863229 2.48863229c.45814455.45814455.45814455 1.20094364 0 1.65908819l-.8295441.8295441zm9.12498508 9.12498509.8295441-.82954411c.4581446-.45814455 1.2009436-.45814455 1.6590882 0l2.4886323 2.48863231c.4581445.4581445.4581445 1.2009436 0 1.6590882l-.8295441.8295441z"
 										fill-rule="evenodd"></path>
 								</svg>Phone number</li>
 							<li class=""><svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16"
-									class="icon svg-default icon-pos-left" src="images/gallery/icons/clock-fill.svg" alt="">
+									class="icon svg-default icon-pos-left" src="/images/gallery/icons/clock-fill.svg" alt="">
 									<path
 										d="m9 7v-4h-2v4h-4v2h6zm-9 1c0-4.418278 3.59071231-8 8-8 4.418278 0 8 3.59071231 8 8 0 4.418278-3.5907123 8-8 8-4.418278 0-8-3.5907123-8-8z"
 										fill-rule="evenodd"></path>
@@ -334,23 +364,25 @@
 				</div>
 				<div class="col-lg-6">
 					<div class="content-box padding-x3 bg-default light">
-						<h3 class="">Form header</h3>
+						<h3 class="">お問い合わせ</h3>
 						<form class="contact_form mb-30 form-vertical" id="contact-text-form-form"
 							novalidate="novalidate">
 							<div class="form-group text-field-group"><input type="text"
-									class="spr-text-field form-control " placeholder="Full name" name="NAME" size="10">
+									class="spr-text-field form-control " placeholder="会社名" name="会社名" size="20">
+							</div>
+							<div class="form-group text-field-group"><input type="text"
+									class="spr-text-field form-control " placeholder="お名前" name="お名前" size="30">
 							</div>
 							<div class="form-group email-field-group"><input type="email"
-									class="spr-email-field form-control spr-form-required" placeholder="Email Address"
-									name="EMAIL" size="10"></div>
+									class="spr-email-field form-control spr-form-required" placeholder="example@mail.com"
+									name="メールアドレス" size="30"></div>
 							<div class="form-group textarea-group"><textarea class="spr-textarea form-control "
-									placeholder="Your message or question" rows="5" name="MESSAGE"></textarea></div>
+									placeholder="お問い合わせ内容" rows="5" name="お問い合わせ内容"></textarea></div>
 							<button type="submit" data-loading-text="•••" data-complete-text="Completed!"
-								data-reset-text="Try again later..." class="btn btn-block btn-dark mt-30">Send
-								message</button>
+								data-reset-text="Try again later..." class="btn btn-block btn-dark mt-30">送信を確認</button>
 						</form>
-						<p class="small text-secondary mb-0">You are very important to us, all information received will
-							always remain confidential.</p>
+						<!-- <p class="small text-secondary mb-0">You are very important to us, all information received will
+							always remain confidential.</p> -->
 					</div>
 				</div>
 			</div>
